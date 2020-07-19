@@ -1,6 +1,6 @@
 # streamify
 
-A music player app
+A Flutter music player app
 
 ## Getting Started
 
